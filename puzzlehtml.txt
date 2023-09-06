@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="./CSS/reset.css">
+  <link rel="stylesheet" href="./CSS/style.css">
+</head>
+<!-- HTML -->
+<header>
+<div class="red--box">
+  <div class="wrapper--purple">
+    <div class="purple--box clearfix"></div>
+    <div class="purple--box clearfix"></div>
+    <div class="purple--box clearfix"></div>
+  </div>
+</div>
+</header>
+<main>
+<div class="clearfix">
+  <div class="green--box"></div>
+  <div class="brown--box">
+    <div class="wrapper--orange">
+      <div class="line--2">
+      <div class="orange--box"></div>
+      </div>
+      <div class="line--2">
+      <div class="orange--box"></div>
+      </div>
+      <div class="line--2 last-child">
+      <div class="orange--box"></div>
+      </div>
+    </div>
+  </div>
+</div>
+</main>
+<footer>
+<div class="yellow--box"></div>
+</footer>
+</html>
